@@ -1,7 +1,5 @@
-# Inter Operability Services (Hermes)
-This project aims to provide services to exchange information through web services to multiple platforms, for example a B4R database providing information to KDTools and/or GrinGlobal. Currently it supports B4R database.
-
-The application provides a flexible environment for publishing RESTful services using different specifications, for example KDDart/DAL API or Breeding API.
+# Hermes (BrAPI Services)
+This project aims to provide a flexible environment for publishing RESTful services following BrAPI specification. Currently it supports B4R database.
 
 ## Requirements
 * The project requires JDK and JRE 8.
