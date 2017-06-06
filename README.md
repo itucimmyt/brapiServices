@@ -3,14 +3,14 @@ This project aims to provide a flexible environment for publishing RESTful servi
 
 ## Requirements
 * The project requires JDK and JRE 8.
-* Available port for deploying (preset is 9080). If the preset port is not available in the host machine, can be changed in application's configuration.
-* A B4R DB instance with all schemas
+* Available port for deploying (preset is 9081). If the preset port is not available in the host machine, can be changed in application's configuration.
+* A B4R DB instance with all schemas (at minimum, 'operational' and 'master' schemas)
 
 ## Build
 You can compile and build the project by using Gradle. The project creates both an executable _jar_ file and a clean _jar_ only with the application classes.
 
 ### Considerations
-* Build pipelines for Maven and Gradle have subtle differences which must be considered when changing provided configuration. Please refer to their documentation for further information.
+* Build pipelines for Maven and Gradle have subtle differences which must be considered when changing provided configuration. Please refer to Gradle documentation for further information.
 * Due to Gradle incremental builds it is recommended to add the task/goal 'clean' to avoid some caching when renaming packages/classes and force a full compilation cycle. Do this specially when building a release package.
 
 ```
@@ -43,7 +43,7 @@ $ gradle bootRun
 Press **CTRL+C** to stop execution. When stopping this way, the running Gradle daemon is also stopped (it is a known issue of Gradle). In practice, this has no practical nor visible effects apart from taking a couple of seconds more in the next immediate build.  
 
 ## Testing
-Example tests provide some minimal coverage. Full coverage must be implemented, possibly by a QA team. The main function of the tests is to provice guidance in test building.
+Example tests provide some minimal coverage. Full coverage must be implemented, possibly by a QA team. The main function of the tests is to provide guidance in test construction.
 
 Run task 'test', and optionally 'jacocoTestReport' to generate a code coverage report:
 ```
