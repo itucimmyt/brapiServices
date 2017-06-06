@@ -1,0 +1,8 @@
+{  
+   "WriteToken":[  
+      {  
+         "Value":"token123"
+      }
+   ],
+   "Trait":"test payload"
+}

@@ -1,0 +1,11 @@
+<DALResponse>
+<Pagination>
+<NumPerPage>10</NumPerPage>
+<Page>0</Page>
+<NumOfRecords>50</NumOfRecords>
+<NumOfPages>5</NumOfPages>
+</Pagination><RecordMeta>
+<TagName>Trait</TagName>
+</RecordMeta>
+<Trait>test payload</Trait>
+</DALResponse>

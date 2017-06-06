@@ -1,0 +1,60 @@
+logging:
+    level:
+        org:
+            springframework: INFO
+            hibernate: INFO
+            cimmyt: DEBUG
+            
+server:
+    port: 9081
+    error:
+        whitelabel:
+            enabled: false
+    compression:
+        enabled: true
+        mime-types: application/json,application/xml
+        min-response-size: 20480
+spring:
+    boot:
+        admin:
+            url: http://localhost:9090
+    datasource:
+        initialize: false
+        continue-on-error: true
+        url: jdbc:postgresql://172.17.61.5:5432/b4w_test
+        username: postgres
+        password: siu*2016
+        tomcat:
+          validation-query: select 1
+          test-on-borrow: true
+    jpa:
+        show-sql: false
+        hibernate:
+            ddl-auto: none
+            naming:
+                physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+        properties:
+            hibernate:
+                dialect: org.hibernate.dialect.PostgreSQL94Dialect
+                format_sql: true
+                order_inserts: true
+                order_updates: true
+                max_fetch_depth: 1
+                default_batch_fetch_size: 8
+                id:
+                    new_generator_mappings: true
+#                cache:
+#                    use_second_level_cache: true
+#                    region:
+#                        factory_class: org.hibernate.cache.ehcache.EhCacheRegionFactory
+                jdbc:
+                    fetch_size: 1000
+                    batch_size: 10000
+    mvc:
+        throw-exception-if-no-handler-found: true
+    resources:
+        add-mappings: false
+        
+cimmyt:
+    brapi:
+        maxPageSize: 1000 

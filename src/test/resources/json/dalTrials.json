@@ -1,0 +1,29 @@
+{
+   "Pagination":[
+      {
+         "NumPerPage":2,
+         "Page":0,
+         "NumOfRecords":2,
+         "NumOfPages":1
+      }
+   ],
+   "Trial":[
+      {
+         "TrialName":"a name1",
+         "TrialTitle":"a title",
+         "TrialYear":1999,
+         "update":"/update/link/1"
+      },
+      {
+         "TrialName":"a name2",
+         "TrialTitle":"a title 2",
+         "TrialYear":2000,
+         "update":"/update/link/2"
+      }
+   ],
+   "RecordMeta":[
+      {
+         "TagName":"Trial"
+      }
+   ]
+}

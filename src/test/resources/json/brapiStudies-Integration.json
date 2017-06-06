@@ -1,0 +1,268 @@
+{
+  "metadata": {
+    "pagination": {
+      "pageSize": 50,
+      "currentPage": 0,
+      "totalCount": 117686,
+      "totalPages": 2354
+    },
+    "status": [
+      {
+        "code": 0,
+        "message": "success"
+      }
+    ]
+  },
+  "result": [
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-2006A-588==>588",
+      "title": "38IDSN",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-2006A-589==>589",
+      "title": "36EDUYT",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-2005A-698==>698",
+      "title": "35EDUYT",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-2005A-699==>699",
+      "title": "37IDSN",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-2004A-610==>610",
+      "title": "36IDSN",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-2004A-611==>611",
+      "title": "34EDUYT",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-2004A-612==>612",
+      "title": "36IDYN",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-2003A-756==>756",
+      "title": "35IDSN",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-2003A-757==>757",
+      "title": "33EDUYT",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-2002A-876==>876",
+      "title": "F2DWSXS",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-2002A-877==>877",
+      "title": "34IDSN",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-2002A-878==>878",
+      "title": "32EDUYT",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-2002A-879==>879",
+      "title": "34IDYN",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-2001A-989==>989",
+      "title": "31EDUYT",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-AYT-2016-2000B-138==>138",
+      "title": "F2SXS",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-2000B-784==>784",
+      "title": "30EDUYT",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-1999B-600==>600",
+      "title": "29EDUYT",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-1999B-601==>601",
+      "title": "31STIDSN",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-1999B-602==>602",
+      "title": "31STIDYN",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-1998B-645==>645",
+      "title": "28EDUYT",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-1998B-646==>646",
+      "title": "30THIDYN",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-1998B-647==>647",
+      "title": "30THIDSN",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-1997B-713==>713",
+      "title": "29THIDSN",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-1997B-714==>714",
+      "title": "27EDUYT",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-1997B-715==>715",
+      "title": "29THIDYN",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-1996B-518==>518",
+      "title": "28THIDSN",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10615-breeding location-AYT-2016-2001A-472==>472",
+      "title": "CB11SAWY",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10615-breeding location-AYT-2016-2001A-473==>473",
+      "title": "CBSME6HL",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10387-breeding location-AYT-2016-2010B-505==>505",
+      "title": "PYT-FIG 67",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10387-breeding location-AYT-2016-2010B-506==>506",
+      "title": "PYT-FIG 68",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-1996B-519==>519",
+      "title": "26EDUYT",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-1996B-520==>520",
+      "title": "28THIDYN",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-AYT-2016-1990B-45==>45",
+      "title": "22NDIDSN",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-2005A-700==>700",
+      "title": "2ISWSN",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-2003A-758==>758",
+      "title": "1ISWSN",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-1995B-568==>568",
+      "title": "25EDUYT",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-1995B-569==>569",
+      "title": "27THIDYN",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-1995B-570==>570",
+      "title": "27THIDSN",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-1990B-136==>136",
+      "title": "22NDIDYN",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-1989B-137==>137",
+      "title": "21STIDYN",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-1988B-110==>110",
+      "title": "20THIDYN",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-1987B-143==>143",
+      "title": "19THIDYN",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-1986B-134==>134",
+      "title": "18THIDYN",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-1984B-120==>120",
+      "title": "16THIDYN",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-1983B-90==>90",
+      "title": "15THIDYN",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-AYT-2016-1991B-105==>105",
+      "title": "23RDIDYN",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-AYT-2016-1991B-106==>106",
+      "title": "21STEDYT",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-AYT-2016-1990B-46==>46",
+      "title": "20THEDYT",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-1989B-138==>138",
+      "title": "19THEDYT",
+      "aYear": 2016
+    },
+    {
+      "name": "ASTEC-10614-breeding location-MET0-2016-1988B-111==>111",
+      "title": "18THEDYT",
+      "aYear": 2016
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{  
+   "Pagination":[  
+      {  
+         "NumPerPage":10,
+         "Page":0,
+         "NumOfRecords":50,
+         "NumOfPages":5
+      }
+   ],
+   "RecordMeta":[  
+      {  
+         "TagName":"Trait"
+      }
+   ],
+   "Trait":"test payload"
+}

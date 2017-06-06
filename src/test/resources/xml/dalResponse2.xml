@@ -1,0 +1,6 @@
+<DALResponse>
+<WriteToken>
+<Value>token123</Value>
+</WriteToken>
+<Trait>test payload</Trait>
+</DALResponse>
